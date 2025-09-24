@@ -1,1 +1,6 @@
 
+{
+  "version": "1.0.2",
+  "download_url": "",
+  "changelog": "Fixed crash when opening mods folder.\nImproved update checker."
+}
