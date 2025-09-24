@@ -14,7 +14,7 @@ Thanks for stopping by and checking it out. 😊
 
 ## Installation
 
-1. Download the latest release from [Releases](https://github.com/YourName/yourrepo/releases).
+1. Download the latest release from [Releases](https://github.com/Smiley-Devv/ModManager/releases).
 2. Run the `.exe` or `python readyornot_mod_manager.py` if using Python directly.
 
 ## Usage
